@@ -22,9 +22,9 @@ By automating this process with AI, we save time and reduce human error while ge
 
 ## 🏗 Our Architecture
 
-
-<img src="auto-ai.png" alt="img" width="500px" style="margin-top: 20px; margin-bottom: 20px;">
-
+<img src="https://github.com/user-attachments/assets/6dbfcc54-7734-4e0a-8d9e-dcf935c2f552" 
+     width="500px" 
+     style="display: block; margin: 20px auto;" />
 
 1. **Data Preparation**: Historical sales data is collected in Excel and preprocessed (dates converted, missing values handled).  
 2. **Model Training**: We use **Watsonx.ai AutoAI** to train multiple models and select the best-performing Random Forest Regressor.  
