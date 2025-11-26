@@ -22,7 +22,7 @@ By automating this process with AI, we save time and reduce human error while ge
 
 ## 🏗 Our Architecture
 
-<img src="https://github.com/user-attachments/assets/6dbfcc54-7734-4e0a-8d9e-dcf935c2f552" 
+<img src="https://github.com/user-attachments/assets/f3192e15-a1ee-4957-836d-24fd030f9284" 
      width="500px" 
      style="display: block; margin: 20px auto;" />
 
